@@ -6,9 +6,12 @@ body{
     justify-content:center;
     align-items:center;
 
-    background:#b1e9ff;
-}
+    background-image:url("grass.png");
+    background-size:cover;
+    background-position:center;
 
+    image-rendering:pixelated;
+}
 .container{
     width:90%;
     max-width:500px;
